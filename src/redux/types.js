@@ -1,0 +1,6 @@
+export const CLEAR_DATA = 'CLEAR_DATA';
+export const ADD_PLAYER = 'ADD_PLAYER';
+export const CREATE_TEAM = 'CREATE_TEAM';
+export const ASSIGN_PLAYER_TO_TEAM = 'ASSIGN_PLAYER_TO_TEAM';
+export const CREATE_MATCH = 'CREATE_MATCH';
+export const ASSIGN_TEAMS_TO_MATCH = 'ASSIGN_TEAMS_TO_MATCH';
